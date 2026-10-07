@@ -1,0 +1,3 @@
+| **Ligand** | **Ligand Gene** | **Receptor** | **Receptor Gene** | **Sender cell** | **Receiver cell**          | **Interaction type** | **Evidence**       |
+| :--------- | :-------------- | :----------- | :---------------- | :-------------- | :------------------------- | :------------------- | :----------------- |
+| TGFB1      | `TGFB1`         | TGFBR2       | `TGFBR2`          | Trophoblast     | Placental endothelial cell | Direct interaction   | IntAct EBI-3504782 |
