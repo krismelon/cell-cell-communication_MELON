@@ -140,7 +140,6 @@ The expected response is changes in gene expression that may affect cell growth 
 HPA : https://www.proteinatlas.org/ENSG00000105329-TGFB1
 
 OmniPath : https://explore.omnipathdb.org/search?q=TGFB1%2C+&tab=intercell&species=9606&parents=ligand
-
            https://explore.omnipathdb.org/search?q=TGFBR2a2C&tab=intercell&species=9606&parents=receptor
 
 STRING : https://string-db.org/cgi/network?taskId=bl72mlM0wFTY&sessionId=biwhV190xIlA
